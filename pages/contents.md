@@ -1,1 +1,8 @@
+- # 즐겨찾기
+- [[Courses]]
+- [[GitHub Repositories]]
+- # 정리
+- [[4190.310 Programming Languages]]
+- [[Zig]]
+- [[정병열. 경제학연습 거시편.]]
 - [[정병열. 경제학연습 미시편.]]
