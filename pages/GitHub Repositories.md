@@ -1,1 +1,2 @@
 - https://github.com/devcontainers/images
+- https://github.com/debanjandhar12/logseq-anki-sync

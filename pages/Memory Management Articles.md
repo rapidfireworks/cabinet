@@ -1,0 +1,6 @@
+- https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap
+- https://unix.stackexchange.com/questions/145557/how-does-stack-allocation-work-in-linux
+- http://landley.net/writing/memory-faq.txt
+- https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
+- https://ss64.com/bash/ulimit.html
+- https://zhu45.org/posts/2017/Jul/30/understanding-how-function-call-works
