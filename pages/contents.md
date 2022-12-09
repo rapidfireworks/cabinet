@@ -3,6 +3,7 @@
 - [[GitHub Repositories]]
 - [[Memory Management Articles]]
 - [[Youtube Videos]]
+- [[Economics Articles]]
 - # 독서
 - [[정병열. 경제학연습 거시편.]]
 - [[정병열. 경제학연습 미시편.]]

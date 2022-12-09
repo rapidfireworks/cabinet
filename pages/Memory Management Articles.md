@@ -4,3 +4,5 @@
 - https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
 - https://ss64.com/bash/ulimit.html
 - https://zhu45.org/posts/2017/Jul/30/understanding-how-function-call-works
+- https://www.quora.com/Where-is-a-stack-pointer-stored
+- https://www.quora.com/Are-statically-compiled-C-programs-faster-than-dynamically-linked
