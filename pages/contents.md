@@ -6,6 +6,8 @@
 - [[Economics Articles]]
 - [[Websites]]
 - [[Docker Articles]]
+- [[Youtube Channels]]
+- [[x86-64 Assembly Articles]]
 - # 독서
 - [[정병열. 경제학연습 거시편.]]
 - [[정병열. 경제학연습 미시편.]]
@@ -16,3 +18,4 @@
 - # 정리
 - [[4190.310 Programming Languages]]
 - [[Zig]]
+- [[NASM]]
