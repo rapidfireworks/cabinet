@@ -1,9 +1,15 @@
-- https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap
-- https://unix.stackexchange.com/questions/145557/how-does-stack-allocation-work-in-linux
 - http://landley.net/writing/memory-faq.txt
 - https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
-- https://ss64.com/bash/ulimit.html
-- https://zhu45.org/posts/2017/Jul/30/understanding-how-function-call-works
-- https://www.quora.com/Where-is-a-stack-pointer-stored
-- https://www.quora.com/Are-statically-compiled-C-programs-faster-than-dynamically-linked
-- https://kldp.org/node/101737
+- [ulimit Man Page - Linux - SS64.com](https://ss64.com/bash/ulimit.html)
+- [Understanding how function call works](https://zhu45.org/posts/2017/Jul/30/understanding-how-function-call-works)
+- [The Memory Layout of a 64-bit Linux Process](https://simonis.github.io/Memory)
+- [Cache-Friendly Code | Baeldung on Computer Science](https://www.baeldung.com/cs/cache-friendly-code)
+- [Memory Performance in a Nutshell](https://www.intel.com/content/www/us/en/developer/articles/technical/memory-performance-in-a-nutshell.html)
+- # Stack Overflow
+- [What and where are the stack and heap?](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
+- # Quora
+- [Where is a stack pointer stored?](https://www.quora.com/Where-is-a-stack-pointer-stored)
+- [Are statically compiled C programs faster than dynamically linked?](https://www.quora.com/Are-statically-compiled-C-programs-faster-than-dynamically-linked)
+- # Communities
+- [How does stack allocation work in Linux?](https://unix.stackexchange.com/questions/145557/how-does-stack-allocation-work-in-linux)
+- [[완료] malloc과 mmap의 차이 | KLDP](https://kldp.org/node/101737)

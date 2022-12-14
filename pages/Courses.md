@@ -1,2 +1,2 @@
-- http://ropas.snu.ac.kr/~kwang/4190.310/mooc
+- [4190.310 Programming Languages](http://ropas.snu.ac.kr/~kwang/4190.310/mooc)
 	- http://ropas.snu.ac.kr/~kwang/4190.310/22
