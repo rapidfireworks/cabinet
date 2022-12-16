@@ -1,4 +1,5 @@
-- https://www.wanted.co.kr
-- https://kr.linkedin.com
-- http://www.index.go.kr/unify/main.do
-- https://exercism.org
+- [원티드 - 나다운 일의 시작](https://www.wanted.co.kr)
+- [LinkedIn](https://kr.linkedin.com)
+- [국가지표체계](http://www.index.go.kr/unify/main.do)
+- [Exercism](https://exercism.org)
+- [Pragmatic Bookshelf: By Developers, For Developers](https://pragprog.com)

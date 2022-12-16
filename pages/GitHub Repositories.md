@@ -1,2 +1,3 @@
-- https://github.com/devcontainers/images
-- https://github.com/debanjandhar12/logseq-anki-sync
+- [GitHub - devcontainers/images: Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers](https://github.com/devcontainers/images)
+- [GitHub - debanjandhar12/logseq-anki-sync: An logseq to anki syncing plugin with superpowers - image occlusion, card direction, incremental cards, and a lot more.](https://github.com/debanjandhar12/logseq-anki-sync)
+- [GitHub - jgm/pandoc: Universal markup converter](https://github.com/jgm/pandoc)

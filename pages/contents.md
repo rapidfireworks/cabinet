@@ -9,6 +9,8 @@
 - [[Youtube Channels]]
 - [[x86-64 Assembly Articles]]
 - [[Container Articles]]
+- [[Elixir Articles]]
+- [[Flutter Articles]]
 - # 독서
 - [[정병열. 경제학연습 거시편.]]
 - [[정병열. 경제학연습 미시편.]]
@@ -16,6 +18,7 @@
 - [[레이크록. 사업을 한다는 것.]]
 - [[남대일 등. 101가지 비즈니스 모델 이야기.]]
 - [[워런 버핏. 워런 버핏의 주주 서한]]
+- [[토드 부크홀츠. 죽은 경제학자의 살아있는 아이디어.]]
 - # 정리
 - [[4190.310 Programming Languages]]
 - [[Zig]]

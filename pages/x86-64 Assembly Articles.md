@@ -5,6 +5,7 @@
 - [Compiler Explorer](https://godbolt.org)
 - [How many x86 instructions are there?](https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there)
 - [Does a compiler use all x86 instructions?](http://pepijndevos.nl/2016/08/24/x86-instruction-distribution.html)
+- [Byte and Bit Order Dissection | Linux Journal](https://www.linuxjournal.com/article/6788)
 - # Cheatsheets
 - https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
 - https://web.stanford.edu/class/cs107/resources/x86-64-reference.pdf
