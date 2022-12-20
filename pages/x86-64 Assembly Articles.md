@@ -15,3 +15,6 @@
 - [When and why would I want to use i8 instead of i32?](https://stackoverflow.com/a/62151441)
 - # Quora
 - [Are statically compiled C programs faster than dynamically linked?](https://www.quora.com/Are-statically-compiled-C-programs-faster-than-dynamically-linked)
+- # Tools
+- otool; mac
+- objdump; linux
