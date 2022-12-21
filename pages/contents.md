@@ -8,7 +8,6 @@
 - [[Docker Articles]]
 - [[Youtube Channels]]
 - [[x86-64 Assembly Articles]]
-	-
 - [[Container Articles]]
 - [[Elixir Articles]]
 - [[Flutter Articles]]
