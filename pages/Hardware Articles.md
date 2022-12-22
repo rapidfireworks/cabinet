@@ -1,0 +1,1 @@
+- [개발자를 위한 SSD (Coding for SSD) - Part 1 : 목차](https://tech.kakao.com/2016/07/13/coding-for-ssd-part-1)

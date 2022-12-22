@@ -1,17 +1,29 @@
-- # 즐겨찾기
+- # Favorites
 - [[Courses]]
 - [[GitHub Repositories]]
-- [[Memory Management Articles]]
 - [[Youtube Videos]]
-- [[Economics Articles]]
-- [[Websites]]
-- [[Docker Articles]]
 - [[Youtube Channels]]
+- [[Online Books]]
+- # Articles
+- [[Memory Management Articles]]
+- [[Economics Articles]]
+- [[Docker Articles]]
 - [[x86-64 Assembly Articles]]
 - [[Container Articles]]
 - [[Elixir Articles]]
 - [[Flutter Articles]]
-- # 독서
+- [[JavaScript Articles]]
+- [[Ruby Articles]]
+- [[Operating System Articles]]
+- [[Hardware Articles]]
+- [[Database Articles]]
+- [[Functional Programming Articles]]
+- [[String Articles]]
+- # Websites
+- [[Websites]]
+- [[Startup Websites]]
+- [[Haskell Websites]]
+- # Books
 - [[정병열. 경제학연습 거시편.]]
 - [[정병열. 경제학연습 미시편.]]
 - [[폴 크루그먼 등. 크루그먼의 거시경제학.]]
@@ -19,7 +31,7 @@
 - [[남대일 등. 101가지 비즈니스 모델 이야기.]]
 - [[워런 버핏. 워런 버핏의 주주 서한]]
 - [[토드 부크홀츠. 죽은 경제학자의 살아있는 아이디어.]]
-- # 정리
+- # Memo
 - [[4190.310 Programming Languages]]
 - [[Zig]]
 - [[NASM]]

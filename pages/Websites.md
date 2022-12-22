@@ -3,3 +3,7 @@
 - [국가지표체계](http://www.index.go.kr/unify/main.do)
 - [Exercism](https://exercism.org)
 - [Pragmatic Bookshelf: By Developers, For Developers](https://pragprog.com)
+- [IBM Developer Linux](https://developer.ibm.com/technologies/linux)
+- [Baeldung on Linux](https://www.baeldung.com/linux)
+- [Cloud Diagrams & Notes](https://www.awsgeek.com)
+- [Regex Tutorial - Unicode Characters and Properties](https://www.regular-expressions.info/unicode.html)

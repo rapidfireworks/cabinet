@@ -1,0 +1,7 @@
+- [Open Data Structures](https://opendatastructures.org)
+- [SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](https://use-the-index-luke.com)
+- [Forecasting: Principles and Practice](https://otexts.com/fppkr)
+- [High Performance Browser Networking (O'Reilly)](https://hpbn.co)
+- [Working With... - Jesse Storimer](https://workingwithruby.com)
+- [Pintos Projects: Table of Contents](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/pintos/pintos.html)
+- [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/bk01-toc.html)
