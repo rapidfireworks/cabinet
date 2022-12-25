@@ -1,0 +1,13 @@
+- Request permission to read and share data in your app
+- # Overview
+- 모든 데이터 타입에 대한 권한을 한번에 요청할 필요는 없다. 대신에 해당 데이터에 접근할 때 요청하는 것이 낫다.
+- # Request Permission from the User
+- 앱이 새로운 권한을 요청할 때마다, 시스템은 요청된 데이터 타입에 대한 입력 폼을 보여준다.
+- Xcode는 HealthKit 데이터를 읽고 쓰는 권한을 요청하기 위한 커스텀 메시지를 요구한다
+	- NSHealthShareUsageDescription
+	- NSHealthUpdateUsageDescription
+- # Check for Authorization before Saving Data
+- 데이터를 저장하기 전에, 앱이 권한을 가지고 있는지 점검해야한다.
+- authorizationStatus(for:)
+- 아직 권한을 요청하지 않았을 경우 HKError.Code.errorAuthorizationNotDetermined 에러를 일으킨다.
+- 유저가 권한을 주지 않았을 경우 HKError.Code.errorAuthorizationDenied 에러를 일으킨다.
