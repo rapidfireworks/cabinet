@@ -1,3 +1,8 @@
+- # Links
+- [[Database Links]]
+- [[Docker Links]]
+- [[OCaml Links]]
+- [[Postgres Links]]
 - # Favorites
 - [[Courses]]
 - [[GitHub Repositories]]
@@ -7,7 +12,6 @@
 - # Articles
 - [[Memory Management Articles]]
 - [[Economics Articles]]
-- [[Docker Articles]]
 - [[x86-64 Assembly Articles]]
 - [[Container Articles]]
 - [[Elixir Articles]]
@@ -16,7 +20,6 @@
 - [[Ruby Articles]]
 - [[Operating System Articles]]
 - [[Hardware Articles]]
-- [[Database Articles]]
 - [[Functional Programming Articles]]
 - [[String Articles]]
 - # Websites

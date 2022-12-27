@@ -1,2 +1,0 @@
-- [Why Window Functions Are Not Allowed in WHERE Clauses](https://learnsql.com/blog/window-functions-not-allowed-in-where)
-- [There is *almost* no way MySQL is better than — heck, even as good as — Postgres.](https://www.reddit.com/r/rails/comments/k4vlqo/comment/gej2bs2/?utm_source=share&utm_medium=web2x&context=3)

@@ -1,5 +1,4 @@
 - [Open Data Structures](https://opendatastructures.org)
-- [SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](https://use-the-index-luke.com)
 - [Forecasting: Principles and Practice](https://otexts.com/fppkr)
 - [High Performance Browser Networking (O'Reilly)](https://hpbn.co)
 - [Working With... - Jesse Storimer](https://workingwithruby.com)
