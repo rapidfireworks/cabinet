@@ -1,0 +1,19 @@
+- # Articles
+- [법인설립 최소 자본금은 얼마일까?](https://blog.naver.com/jobisnv/222029810516)
+- [주식회사 vs 유한회사 vs 유한책임회사, 회사 종류 비교 총정리](https://blog.help-me.kr/2021/04/주식회사-vs-유한회사-vs-유한책임회사-회사-종류-비교)
+- [옵션 풀(Option Pool) 효과](https://www.thestartupbible.com/2016/11/the-stock-option-pool-effect.html)
+- [스톡옵션을 부여하려면 정관부터 살펴보자](https://www.venturesquare.net/854177)
+- [스타트업, 지분을 나누는 현명한 방법](https://brunch.co.kr/@junsme/51)
+- [스타트업 기업가치는 어떻게 정하나요?](https://zuzu.network/resource/guide/value-calculation)
+- [스타트업 지분 희석의 모든 것: 제 지분이 묽어진다고요...?! - 주주 블로그](https://blog.zuzu.network/?p=248)
+- [지분 희석 공식 (Equity Dilution)](https://www.venturesquare.net/1237)
+- # Blogs
+- [THE STARTUP BIBLE](https://www.thestartupbible.com)
+- [헬프미 블로그 | 나에게 꼭 필요한 법률상식](https://blog.help-me.kr)
+- [Zuzu 블로그](https://zuzu.network/resource/blog)
+- # Videos
+- [스타트업 지분 결정 시 반드시 알아야 할 지식 1편_스타트업_류재언 변호사](https://www.youtube.com/watch?v=GmDnHLtSLtg)
+- # Websites
+- [스타트업 전문 미디어 - 플래텀(Platum)](https://platum.kr)
+- [Byline Network - IT 전문기자의 연대 바이라인네트워크](https://byline.network)
+- [티타임즈 T Times](https://www.ttimes.co.kr)

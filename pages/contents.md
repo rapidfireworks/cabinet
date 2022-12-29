@@ -4,6 +4,7 @@
 - [[Monitoring Links]]
 - [[OCaml Links]]
 - [[Postgres Links]]
+- [[Startup Links]]
 - # Favorites
 - [[Courses]]
 - [[GitHub Repositories]]
@@ -25,7 +26,6 @@
 - [[String Articles]]
 - # Websites
 - [[Websites]]
-- [[Startup Websites]]
 - [[Haskell Websites]]
 - # Books
 - [[정병열. 경제학연습 거시편.]]

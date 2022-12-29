@@ -1,3 +1,0 @@
-- [스타트업 전문 미디어 - 플래텀(Platum)](https://platum.kr)
-- [Byline Network - IT 전문기자의 연대 바이라인네트워크](https://byline.network)
-- [티타임즈 T Times](https://www.ttimes.co.kr)
