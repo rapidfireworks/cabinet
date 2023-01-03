@@ -1,8 +1,10 @@
 - # Links
 - [[Database Links]]
 - [[Docker Links]]
+- [[Economics Links]]
 - [[Monitoring Links]]
 - [[OCaml Links]]
+- [[Operating System Links]]
 - [[Postgres Links]]
 - [[Startup Links]]
 - # Favorites
@@ -13,14 +15,12 @@
 - [[Online Books]]
 - # Articles
 - [[Memory Management Articles]]
-- [[Economics Articles]]
 - [[x86-64 Assembly Articles]]
 - [[Container Articles]]
 - [[Elixir Articles]]
 - [[Flutter Articles]]
 - [[JavaScript Articles]]
 - [[Ruby Articles]]
-- [[Operating System Articles]]
 - [[Hardware Articles]]
 - [[Functional Programming Articles]]
 - [[String Articles]]
@@ -35,6 +35,7 @@
 - [[남대일 등. 101가지 비즈니스 모델 이야기.]]
 - [[워런 버핏. 워런 버핏의 주주 서한]]
 - [[토드 부크홀츠. 죽은 경제학자의 살아있는 아이디어.]]
+- [[와타나베 준이치. 나는 둔감하게 살기로 했다.]]
 - # Memo
 - [[4190.310 Programming Languages]]
 - [[Zig]]
