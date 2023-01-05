@@ -1,0 +1,7 @@
+- # Personal
+- [개발자 이동욱](https://dongwooklee96.github.io)
+- [Donghyun's Tech BlogGithubTwitterLayer 1](https://bangalcatblog.fly.dev/blog)
+- [김대현 – Medium](https://medium.com/@hatemogi)
+- # Company
+- [데이터 사이언스 랩 – 파비블로그](https://blog.pabii.co.kr)
+- [wishket - 위시켓 블로그입니다.](https://blog.wishket.com)
