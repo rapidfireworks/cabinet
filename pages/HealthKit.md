@@ -1,0 +1,7 @@
+- [[HealthKit/01. About the HealthKit Framework]]
+- [[HealthKit/02. Setting up HealthKit]]
+- [[HealthKit/03. Authorizing Access to Health Data]]
+- [[HealthKit/04. Protecting User Privacy]]
+- # References
+- [HealthKit - Technologies - Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/technologies/healthkit)
+- [HealthKit | Apple Developer Documentation](https://developer.apple.com/documentation/healthkit)

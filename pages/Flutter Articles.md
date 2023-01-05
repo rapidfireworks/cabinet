@@ -1,0 +1,1 @@
+- [Flutter Bottom Navigation Bar with Nested Routes: GoRouter vs Beamer Comparison](https://codewithandrea.com/articles/flutter-bottom-navigation-bar-nested-routes-gorouter-beamer)

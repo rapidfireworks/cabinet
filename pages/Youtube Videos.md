@@ -1,0 +1,4 @@
+- [BOOKSTORES: How to Read More Books in the Golden Age of Content](https://www.youtube.com/watch?v=lIW5jBrrsS0)
+- [한 번만 읽어도 책 내용 다 기억하는 기적의 독서 메모 법 | 김익한 @김교수의 세 가지 명지대 교수, 기록학자 #메모 #기록 #독서](https://www.youtube.com/watch?v=fxdPHw8vhog)
+- [What's a Memory Allocator Anyway? - Benjamin Feng](https://www.youtube.com/watch?v=vHWiDx_l4V0)
+- [퇴직 후 근로소득세 환급받기 (근로소득만 있는 경우, 홈택스 종합소득세 신고방법)](https://www.youtube.com/watch?v=K0hXDXZhPtA)

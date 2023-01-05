@@ -1,0 +1,1 @@
+- [글자수를 세는 7가지 방법](https://engineering.linecorp.com/ko/blog/the-7-ways-of-counting-characters)

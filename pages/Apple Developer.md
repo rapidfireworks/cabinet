@@ -1,0 +1,4 @@
+- Capability
+	- Capability는 애플이 제공하는 앱 서비스에 당신의 앱이 접근할 수 있도록 승인한다.
+	- CloudKit, Game Center, In-App Purchase
+- [Entry Point](https://velog.io/@butter-free/Entry-Point)

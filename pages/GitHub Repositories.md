@@ -1,0 +1,7 @@
+- [GitHub - devcontainers/images: Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers](https://github.com/devcontainers/images)
+- [GitHub - debanjandhar12/logseq-anki-sync: An logseq to anki syncing plugin with superpowers - image occlusion, card direction, incremental cards, and a lot more.](https://github.com/debanjandhar12/logseq-anki-sync)
+- [GitHub - jgm/pandoc: Universal markup converter](https://github.com/jgm/pandoc)
+- [GitHub - hanabi1224/Programming-Language-Benchmarks: Yet another implementation of computer language benchmarks game](https://github.com/hanabi1224/Programming-Language-Benchmarks)
+- [GitHub - posquit0/Awesome-CV: Awesome CV is LaTeX template for your outstanding job application](https://github.com/posquit0/Awesome-CV)
+- [GitHub - sger/ElixirBooks: List of Elixir books](https://github.com/sger/ElixirBooks)
+- [GitHub - brave-people/brave-tech-interview: 🙋 핵심을 질문하다. 그리고 용감하게 대답하다. 국내 IT기업부터 실리콘밸리까지 "현직자가 해설해주는 기술면접"](https://github.com/brave-people/brave-tech-interview)

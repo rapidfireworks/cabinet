@@ -1,0 +1,20 @@
+- [NASM](https://www.nasm.us)
+- [nasmtutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial)
+- [EAX x86 Register: Meaning and History](https://keleshev.com/eax-x86-register-meaning-and-history)
+- [NASM x64 Assembly](https://www.cs.uaf.edu/2017/fall/cs301/reference/x86_64.html)
+- [Compiler Explorer](https://godbolt.org)
+- [How many x86 instructions are there?](https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there)
+- [Does a compiler use all x86 instructions?](http://pepijndevos.nl/2016/08/24/x86-instruction-distribution.html)
+- [Byte and Bit Order Dissection | Linux Journal](https://www.linuxjournal.com/article/6788)
+- # Cheatsheets
+- https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
+- https://web.stanford.edu/class/cs107/resources/x86-64-reference.pdf
+- [Intel x86 JUMP quick reference](http://unixwiz.net/techtips/x86-jumps.html)
+- # Stack Overflow
+- [Assembling with GCC causes weird relocation error with regards to .data](https://stackoverflow.com/a/46124164)
+- [When and why would I want to use i8 instead of i32?](https://stackoverflow.com/a/62151441)
+- # Quora
+- [Are statically compiled C programs faster than dynamically linked?](https://www.quora.com/Are-statically-compiled-C-programs-faster-than-dynamically-linked)
+- # Tools
+- otool; mac
+- objdump; linux
