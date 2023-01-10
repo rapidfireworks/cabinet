@@ -1,0 +1,13 @@
+- URLSession
+	- URLSessionTask
+		- URLSessionDataTask
+			- memory
+		- URLSessionDownloadTask
+			- file system
+	- URLSessionConfiguration
+		- default
+		- ephemeral
+- URLSessionDelegate
+- URLSessionTaskDelegate
+- # Links
+- [Apple Developer Documentation](https://developer.apple.com/documentation/foundation/urlsession)
